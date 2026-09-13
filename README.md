@@ -1,31 +1,32 @@
 ### Hi, I'm Jiajie Li (李嘉杰) 👋
 
-Ph.D. candidate in **Remote Sensing** at **Wuhan University**, working on **computer vision** and **spatiotemporal image processing** — image reconstruction, super-resolution, and multi-source data fusion, with a focus on unified multimodal vision frameworks.
+Ph.D. candidate in **Remote Sensing** at **Wuhan University**.  
+Working on **computer vision** and **spatiotemporal image processing**.
 
 ## 🔬 Research Interests
 
-- **Spatiotemporal image reconstruction** — reconstruction, inpainting, and super-resolution for multi-source remote sensing data.
-- **Computer vision & object detection** — object extraction and tracking; macroalgae bloom detection in multispectral imagery.
-- **Multimodal vision frameworks** — integrating spatial, temporal, and multimodal information.
+- Remote sensing image reconstruction & super-resolution
+- Computer vision & object detection
+- Multimodal vision frameworks
 
-## 💼 Current & Recent Experience
+## 💼 Experience
 
-- **Datawhale** — Outstanding Teaching Assistant & Outstanding Learner (2023 – Present).
-- **Xiamen University WISER Club** — Insider, Machine Learning Group (2022 – 2023).
-- **Xiamen University Maritime Silk Program** — marine environmental monitoring aboard R/V *Jiageng* (2022).
+- **Datawhale** — Teaching Assistant & Learner
+- **Xiamen University WISER Club** — Machine Learning Group
+- **Xiamen University Maritime Silk Program** — Marine environmental monitoring
 
 ## 📄 Selected Work
 
-- **A novel weighted loss function for improved deep learning-based detection of floating macroalgae blooms in multispectral imagery** — *Remote Sensing Letters*, 2026, 17:3, 336–346. [Paper](https://doi.org/10.1080/2150704X.2026.2629348)
-- **Autosatpack** — automated remote sensing data download and processing on HPC clusters and servers. [Code](https://github.com/Open-LEE/Autosatpack)
-- **Texas-Calculator** — a Texas Hold'em odds simulator with real-time win rates. [Code](https://github.com/Open-LEE/Texas-Calculator)
+- Paper in *Remote Sensing Letters*
+- **Autosatpack** — remote sensing data processing
+- **Texas-Calculator** — poker odds simulator
 
-## 🏆 Selected Honors
+## 🏆 Honors
 
-- Mathematical Contest in Modeling (MCM), Honorable Mention (2022)
-- "CSEE Cup" National Mathematical Modeling Competition, First Prize (2021)
-- Xiamen University "Internet+" Competition, Gold Award (2021)
-- Wang Shujing & Wang Wendou Scholarship (2022)
+- MCM Honorable Mention
+- National Mathematical Modeling Competition, First Prize
+- "Internet+" Competition, Gold Award
+- Wang Shujing & Wang Wendou Scholarship
 
 ## 🔗 Links
 
