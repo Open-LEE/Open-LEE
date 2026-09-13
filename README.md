@@ -1,4 +1,4 @@
-### Hi, I'm Jiajie Li (李嘉杰) 👋
+# Hi, I'm Jiajie Li (李嘉杰) 👋
 
 Ph.D. candidate in **Remote Sensing** at **Wuhan University**.  
 Working on **computer vision** and **spatiotemporal image processing**.
